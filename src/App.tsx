@@ -1,11 +1,23 @@
 import React from 'react';
-import Game from './Game';
 import './App.css';
 
 function App() {
   return (
-    <div className="fullscreen-app">
-      <Game />
+    <div className="app-container">
+      <div className="background-gradient" />
+      
+      <div className="content-wrapper">
+        <h1 className="title">leiðinlegt.is</h1>
+        <p className="subtitle">Eitthvað alveg hræðilega leiðinlegt er í vinnslu...</p>
+        
+        <div className="game-placeholder">
+          <span className="game-placeholder-text">Leikur Væntanlegur</span>
+        </div>
+      </div>
+      
+      <div className="footer">
+        &copy; {new Date().getFullYear()} leiðinlegt.is
+      </div>
     </div>
   );
 }
