@@ -1,0 +1,65 @@
+{
+  "winners": [],
+  "best_scores": [
+    {
+      "name": "Jón ",
+      "email": "jon@dillon.is",
+      "date": "29.04.2026 21:04",
+      "score": 2
+    },
+    {
+      "name": "Jón ",
+      "email": "jon@dillon.is",
+      "date": "29.04.2026 21:05",
+      "score": 2
+    },
+    {
+      "name": "Jón Bjarni ",
+      "email": "jon@dillon.is",
+      "date": "29.04.2026 21:19",
+      "score": 2
+    },
+    {
+      "name": "Jón Bjarni ",
+      "email": "jon@dillon.is",
+      "date": "29.04.2026 21:20",
+      "score": 2
+    },
+    {
+      "name": "Jón Bjarni ",
+      "email": "jon@dillon.is",
+      "date": "29.04.2026 21:20",
+      "score": 2
+    },
+    {
+      "name": "Jón ",
+      "email": "jon@dillon.is",
+      "date": "29.04.2026 21:05",
+      "score": 1
+    },
+    {
+      "name": "Jón Bjarni ",
+      "email": "jon@dillon.is",
+      "date": "29.04.2026 21:20",
+      "score": 1
+    },
+    {
+      "name": "Jón ",
+      "email": "jon@dillon.is",
+      "date": "29.04.2026 21:04",
+      "score": 0
+    },
+    {
+      "name": "Jón ",
+      "email": "jon@dillon.is",
+      "date": "29.04.2026 21:04",
+      "score": 0
+    },
+    {
+      "name": "Jón ",
+      "email": "jon@dillon.is",
+      "date": "29.04.2026 21:05",
+      "score": 0
+    }
+  ]
+}
